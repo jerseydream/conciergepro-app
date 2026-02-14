@@ -1,0 +1,8 @@
+{
+  "name": "ConciergePro - Plateforme de Services",
+  "description": "Une plateforme de conciergerie complète connectant clients et prestataires avec intégration de paiement Wave et gestion de rôles avancée.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
